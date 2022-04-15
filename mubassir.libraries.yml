@@ -1,0 +1,9 @@
+datepicker:
+  version: VERSION
+  css:
+      theme:
+        assets/custom/datepicker/datepicker.css: {}
+  js:
+      //code.jquery.com/jquery-3.6.0.js: { type: external }
+      //code.jquery.com/ui/1.13.1/jquery-ui.js: { type: external }
+      assets/custom/datepicker/datepicker.js: {}
